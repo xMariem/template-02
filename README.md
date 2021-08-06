@@ -1,2 +1,2 @@
 # template-2
-## a template for tranning, from elzero web school
+## a template for traning, from elzero web school
