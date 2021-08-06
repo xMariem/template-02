@@ -222,7 +222,7 @@ header nav .form i{
 /* start landing */
 .landing{
     min-height:100vh;
-    background-image: url("../images/landing.jpg");
+    background-image: url("./images/landing.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color:rgba(0 0 0 / 0.635);
@@ -402,7 +402,7 @@ header nav .form i{
     padding-bottom:var(--main-padding);
     height:600px;
     position:relative;
-    background-image: url("./images/pexels-noah-erickson-404280.jpg");
+    background-image: url("./images/design-features.jpg");
     background-size: cover;
     display:flex;
     align-items:center;
